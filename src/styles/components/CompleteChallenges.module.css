@@ -17,3 +17,7 @@
 .completeChallengesContainer span:last-child {
   font-size: 1.5rem;
 }
+
+.completeChallengesContainer .zero {
+  color: var(--red);
+}
